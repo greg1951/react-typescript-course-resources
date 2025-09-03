@@ -1,6 +1,7 @@
 let userName = 'Max';
 
-// userName = 34;
+userName = 34;  
+
 userName = 'Max';
 
 let userAge = 34;
